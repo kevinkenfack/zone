@@ -102,7 +102,7 @@ export const paths = {
   },
   // Others
   pages: '/pages',
-  docs: 'https://zone-docs.vercel.app',
+  docs: 'https://uiroom.pro/zone/docs',
   license: 'https://material-ui.com/store/license/#i-standard-license',
   minimalStore: 'https://material-ui.com/store/items/minimal-dashboard',
   zoneStore: 'https://mui.com/store/items/zone-landing-page/',
