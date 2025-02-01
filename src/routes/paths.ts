@@ -105,7 +105,7 @@ export const paths = {
   docs: 'https://uiroom.pro/zone/docs',
   license: 'https://material-ui.com/store/license/#i-standard-license',
   minimalStore: 'https://material-ui.com/store/items/minimal-dashboard',
-  zoneStore: 'https://mui.com/store/items/zone-landing-page/',
+  zoneStore: 'https://github.com/kevinkenfack/zone',
   figmaPreview:
     'https://www.figma.com/file/Zam9QBLhV4pZf5xtNs0Lf8/%5BPreview%5D-Zone_Web.v2.3.0?type=design&node-id=59%3A680507&mode=design&t=GCVeJci5zfUu5WCy-1',
 };

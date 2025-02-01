@@ -94,7 +94,7 @@ export default function Header({ headerOnDark }: Props) {
             display: { xs: 'none', md: 'inline-flex' },
           }}
         >
-          Buy Now
+         Dowload
         </Button>
       </Stack>
 
